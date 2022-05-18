@@ -1,1 +1,1 @@
-# جواب سوالات دوره تفکر الگوریتمی پیشرفته و ساختمان داده کوئرا
+Quera College Advanced Algorithm course- Questions with answers
